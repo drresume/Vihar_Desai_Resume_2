@@ -1,0 +1,255 @@
+#top{
+  width: 100%;
+  height: 500px;
+
+background-image: url("images/back2.jpg") ;
+background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+    overflow: auto;
+
+}
+#contact{
+  margin-left: 45%;
+}
+.main{
+  height:350px;
+  width: 63%;
+  background-color: #def4f0;
+  position: absolute;
+  margin-top: 200px;
+  margin-left :20%;
+  font-family: 'Balsamiq Sans', cursive;
+
+
+color: #d9455f;
+}
+#info{
+margin-left: 3%;
+padding: 2%;
+}
+#dp{
+  height: 290px;
+  width: 290px;
+  border-radius: 50%;
+  border: 3px solid #32e0c4 ;
+  position: relative;
+  margin-top: 10px;
+  margin-left:6%;
+
+}
+#objective{
+
+  font-family: 'Roboto', sans-serif;
+  padding-left: 30px ;
+  font-weight: bold;
+}
+#sp{
+  color: #f54291;
+}
+.middle-container{
+  margin-top: 100px;
+}
+.skills{
+  margin-bottom: 30px;
+}
+.my-skills{
+  height:100px;
+  width: 300px;
+  color: white;
+  background: linear-gradient(79deg, rgba(68,180,222,1) 31%, rgba(193,0,227,1) 74%);
+  box-sizing: content-box;
+  border-width: 15px;
+  border-style: solid;
+  border-image:url("images/gradient-border.jpg");
+  border-image-slice: 1;
+    margin-left: 41%;
+}
+
+.skill-row{
+  width: 50%;
+  font-family: 'Lexend Tera', sans-serif;
+  margin: 100px auto 0px auto;
+  text-align: left;
+
+}
+
+
+.mys{
+  padding-top: 5%;
+  padding-left: 27%;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+.my-experience{
+  height:90px;
+  width: 650px;
+  color: white;
+  background: linear-gradient(79deg, rgba(68,180,222,1) 31%, rgba(193,0,227,1) 74%);
+  box-sizing: content-box;
+  border-width: 15px;
+  border-style: solid;
+  border-image:url("images/gradient-border.jpg");
+  border-image-slice: 1;
+  margin-left: 30%;
+  margin-bottom: 30px;
+}
+.myex{
+
+  padding-left: 10%;
+}
+.my-education{
+  height:90px;
+  width: 450px;
+  color: white;
+  background: linear-gradient(79deg, rgba(68,180,222,1) 31%, rgba(193,0,227,1) 74%);
+  box-sizing: content-box;
+  border-width: 15px;
+  border-style: solid;
+  border-image:url("images/gradient-border.jpg");
+  border-image-slice: 1;
+  margin-left: 40%;
+  margin-bottom: 30px;
+}
+
+.exp{
+  margin-left: 30px;
+  padding-left:  15%;
+  padding-right: 15%;
+}
+.myedu{
+  margin-left: 30px;
+
+}
+.edu{
+  margin-left: 30px;
+  padding-left:  15%;
+  padding-right: 15%;
+}
+.con{
+    color: #1ee3cf;
+    margin: 50px auto 0 auto;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    margin-left: 43%;
+}
+.contact{
+  text-align: center;
+  margin-left: 30px;
+  padding-left: 15%;
+}
+.add{
+  font-weight: bold;
+}
+.email{
+  font-weight: bold;
+}
+.phone{
+  font-weight: bold;
+}
+.link{
+  font-weight: bold;
+}
+.hardware{
+  width:100%;
+  height:100%;
+  float: left;
+
+}
+.software{
+  width:80%;
+  height:80%;
+  float: left;
+
+}
+.security{
+  width:80%;
+  height:80%;
+  float: left;
+
+}
+.trouble{
+  width: 100%;
+  height: 100%;
+  float: left;
+}
+.networking{
+  width:100%;
+  height:100%;
+  float: left;
+}
+.cpp{
+  width:100%;
+  height:110%;
+  float: left;
+}
+.csv{
+
+    width:70%;
+    height:70%;
+    float: left;
+
+}
+.css{
+
+    width:90%;
+    height:90%;
+    float: left;
+}
+.ppt{
+  width:75%;
+  height:75%;
+  float: left;
+}
+.tm{
+  width:85%;
+  height:85%;
+  float: left;
+}
+.ex{
+  width:85%;
+  height:85%;
+  float: left;
+}
+
+.wd{
+  width:75%;
+  height:90%;
+  float: left;
+}
+.footer{
+  margin-top: 30px;
+  height: 100px;
+  width: 100%;
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+
+}
+.copy{
+  font-size: 200%;
+  color: white;
+  text-align: center;
+}
+body{
+  margin: 0;
+  background-color: #f7f7f7 ;
+}
+hr{
+
+border: 1px solid white;
+ }
+p{
+  font-size: 200%;
+  text-align: left;
+  color: #1ee3cf;
+  font-family: 'Montserrat', sans-serif;
+}
+li{
+  color:#c70039;
+  font-size: 150%;
+}
